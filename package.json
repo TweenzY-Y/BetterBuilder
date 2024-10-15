@@ -1,0 +1,12 @@
+{
+  "name": "better-builder",
+  "version": "1.0.0",
+  "displayName": "Better Builder",
+  "description": "A Unity Editor extension to make building process easier.",
+  "unity": "2020.3",
+  "author": {
+    "name": "TweenzY",
+    "url": "https://github.com/TweenzY-Y"
+  },
+  "keywords": []
+}
